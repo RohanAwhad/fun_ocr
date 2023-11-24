@@ -1,0 +1,7 @@
+fastapi
+pydantic
+uvicorn
+pytesseract
+gunicorn
+Pillow
+python-multipart
